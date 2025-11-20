@@ -1,10 +1,13 @@
 title: "Knutmans Oracle & PL/SQL Blog"
-description: "Tipps, Best Practices und Anleitungen zu Oracle Database, pl/sql und parallelisierung."
+description: "Tipps, Best Practices und Anleitungen zu oracle database, pl/sql und parallelisierung."
 url: "https://knutman.github.io"
 
+# hier sagen wir: nutze minimal mistakes von github
 remote_theme: "mmistakes/minimal-mistakes"
 
+# WICHTIG: remote-theme plugin aktivieren, sonst wird remote_theme ignoriert
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache

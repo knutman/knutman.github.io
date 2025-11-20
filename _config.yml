@@ -1,18 +1,16 @@
 title: "Knutmans Oracle & PL/SQL Blog"
-description: "Tipps, Tricks und Best Practices zu Oracle Database, pl/sql, apex und parallelisierung."
+description: "Tipps, Best Practices und Anleitungen zu Oracle Database, pl/sql und parallelisierung."
 url: "https://knutman.github.io"
 
-# minimal mistakes als theme einbinden
 remote_theme: "mmistakes/minimal-mistakes"
 
-# ein paar sinnvolle plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
 
-# sprache / ein paar defaults
 locale: de
-minimal_mistakes_skin: "default"   # andere möglichkeiten: air, dark, neon, ...
 markdown: kramdown
 highlighter: rouge
+
+minimal_mistakes_skin: "default"

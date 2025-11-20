@@ -1,14 +1,16 @@
 ---
-layout: author
+layout: single
 title: "Über mich"
 author: knutman
 permalink: /about/
+author_profile: true
 ---
 
 Ich arbeite seit vielen Jahren mit der Oracle-Datenbank, insbesondere mit pl/sql, 
 geodaten und großen Datenmengen. Mein Schwerpunkt liegt darauf, komplexe 
-Import- und Verarbeitungsprozesse zu entwerfen, sie zu optimieren und so zu strukturieren, 
-dass sie möglichst effizient parallel auf mehreren CPU-Kernen laufen können.
+Import- und Verarbeitungsprozesse zu entwerfen, sie zu optimieren und so zu 
+strukturieren, dass sie möglichst effizient parallel auf mehreren CPU-Kernen 
+laufen können.
 
 Ich beschäftige mich intensiv mit:
 

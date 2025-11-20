@@ -1,0 +1,8 @@
+knutman:
+  name: "Knut Göttling"
+  bio: "pl/sql- und oracle-entwickler. fokus: parallelisierung, autonomous database 23ai, oci, geodaten."
+  location: "Hamburg"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/knutman"

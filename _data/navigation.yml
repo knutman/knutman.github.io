@@ -1,0 +1,12 @@
+main:
+  - title: "Start"
+    url: /
+
+  - title: "Blog"
+    url: /blog/
+
+  - title: "Kategorien"
+    url: /categories/
+
+  - title: "Über mich"
+    url: /about/
